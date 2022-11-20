@@ -1,21 +1,60 @@
-#MClientPlusPlus
+
+<h1 align="center">
+  <br>
+  <a href="https://mclient.tk"><img src="https://raw.githubusercontent.com/MClientMCPE/MClientComingSoonScreen/main/mclientlb.png" alt="MClient++" width="200"></a>
+  <br>
+  MClient++
+  <br>
+</h1>
+
+<h4 align="center">A Minecraft PE Hacked client built for Anarchy servers it can also be used in Minigame Servers</a>.</h4>
+
 [![Github All Releases](https://img.shields.io/github/downloads/MClientMCPE/MClientPlusPlus/total.svg)]()
 
+## Main Features
+
+* **KillAura**
+* **CrystalAura**
+* **Fly bypasses**
+* **Infinite Time**
+* **Smooth GUI**
+* **Performance improving mods**
 
 
-Best toolbox skid on the market with 69% bugs
+## How To Use
 
+> To install MClient++ please delete your original Toolbox For MCPE
 
-**Why is there no source code?**
-- Its because we encrypted our app so that people dont steal our codes
-It false flags it in anti virus softwares due to our encryption, the antivirus thinks we are hiding
-something cuz we encrypted out app, this app is completely safe
-I have 0 reasons to add viruses.
+## Supported Operating System
 
-[---How To Install---]
+- [Android](https://www.android.com/intl/en_ph/)
 
-Go to release, click the apk and done
+**Note**
+> We do not support iOS.
 
-Faq at our discord:
+## Download
 
-https://dsc.gg/mclient
+You can [download](https://github.com/MClientMCPE/MClientPlusPlus/releases/) here.
+
+## Credits
+
+**Creators/Developers**
+
+- [ToolDroid](https://m.youtube.com/@ToolDroidYT-Official?itct=CDMQoTAYACITCJi05uTxu_sCFdHjTAIdNhYM1w%3D%3D)
+
+**Apps i used**
+
+- [ApkEditorMaster](https://www.mediafire.com/file/kret3hpauekxcvs/ApkEditorMaster.apk/file)
+- [NP Manager](https://wwk.lanzoue.com/i5gx90fufe6b)
+- [MT Manager](https://mtmanager.co/)
+- [VsCode](https://code.visualstudio.com/)
+- [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiAmuKbBhA2EiwAxQnt74l1Rc4mDHPQ4KR_DvT4mNRyUwX1S1UaIChfyshAfMbJESn2kMr8bhoC6F8QAvD_BwE&gclsrc=aw.ds)
+
+## Support
+
+> [Donate](https://dsc.gg/mclient)
+
+## Links
+
+> [MClient++ Discord](https://dsc.gg/mclient)
+> [MClient++ Website](https://mclient.tk)
