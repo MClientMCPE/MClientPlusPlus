@@ -2,22 +2,16 @@
 Best toolbox skid on the market with 69% bugs
 
 
+**Why is there no source code?**
+- Its because we encrypted our app so that people dont steal our codes
+It false flags it in anti virus softwares due to our encryption, the antivirus thinks we are hiding
+something cuz we encrypted out app, this app is completely safe
+I have 0 reasons to add viruses.
 
 [---How To Install---]
+
 Go to release, click the apk and done
 
-FAQ:
+Faq at our discord:
 
-Q: How to disable minimap!?!?
-
-A: Go to "Visuals", Scroll downt till you see HUD, enable it and you can disable minimap there
-
---
-
-Q: infinite Premium not working!
-
-A: Wait till the game fully loads and then click on "Add Premium"
-
-[------]
-
-Have fun with this Toolbox Skid :D
+https://dsc.gg/mclient
