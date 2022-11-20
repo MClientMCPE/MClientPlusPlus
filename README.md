@@ -20,6 +20,9 @@
 * **Smooth GUI**
 * **Performance improving mods**
 
+## Close Source Info
+> We originally planned MClient++ to be ```Open Sourced``` but due to the fact that alot of people telling me they will skid MClient++
+i decided to make this closed sourced, this did affect our playerbase as ```AntiVirus Softwares will flag it as a virus``` because it thinks that we are hiding something dangerous because we encrypted MClient++, MClient++ is 100% safe. we have over 17k downloads to confirm
 
 ## How To Use
 
@@ -36,6 +39,8 @@
 
 You can [download](https://github.com/MClientMCPE/MClientPlusPlus/releases/) here.
 
+## GUI
+![](images/gui.png)
 ## Credits
 
 **Creators/Developers**
