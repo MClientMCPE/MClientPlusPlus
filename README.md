@@ -45,7 +45,9 @@ You can [download](https://github.com/MClientMCPE/MClientPlusPlus/releases/) her
 
 **Creators/Developers**
 
-- [ToolDroid](https://m.youtube.com/@ToolDroidYT-Official?itct=CDMQoTAYACITCJi05uTxu_sCFdHjTAIdNhYM1w%3D%3D)
+- [Toolbox Pro](https://dsc.gg/tbpro)
+- [Merci](https://www.youtube.com/channel/UC_6BCq6s3Kz50Wynr753_UA)
+- [Hydro](https://youtube.com/c/hydroflame521)
 
 **Apps i used**
 
@@ -57,7 +59,7 @@ You can [download](https://github.com/MClientMCPE/MClientPlusPlus/releases/) her
 
 ## Support
 
-> [Donate](https://dsc.gg/mclient)
+> [Donate](https://ko-fi.com/wastecraftanarchy)
 
 ## Links
 
