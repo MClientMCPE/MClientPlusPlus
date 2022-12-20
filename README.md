@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Minecraft PE Hacked client built for Anarchy servers it can also be used in Minigame Servers</a>.</h4>
+<h4 align="center">All in one Hacked Client for MCPE</a>.</h4>
 
 [![Github All Releases](https://img.shields.io/github/downloads/MClientMCPE/MClientPlusPlus/total.svg)]()
 
@@ -19,6 +19,10 @@
 * **Infinite Time**
 * **Smooth GUI**
 * **Performance improving mods**
+* **Custom Icons**
+* **Animated Text**
+* **Custom Fonts**
+* **MultiVersion Support**
 
 ## Close Source Info
 > We originally planned MClient++ to be ```Open Sourced``` but due to the fact that alot of people telling me they will skid MClient++
@@ -40,7 +44,7 @@ i decided to make this closed sourced, this did affect our playerbase as ```Anti
 You can [download](https://github.com/MClientMCPE/MClientPlusPlus/releases/) here.
 
 ## GUI
-![](images/gui.png)
+![](images/gui2.jpg)
 ## Credits
 
 **Creators/Developers**
@@ -53,7 +57,7 @@ You can [download](https://github.com/MClientMCPE/MClientPlusPlus/releases/) her
 
 - [ApkEditorMaster](https://www.mediafire.com/file/kret3hpauekxcvs/ApkEditorMaster.apk/file)
 - [NP Manager](https://wwk.lanzoue.com/i5gx90fufe6b)
-- [MT Manager](https://mtmanager.co/)
+- [MT Manager](https://mt2.cn)
 - [VsCode](https://code.visualstudio.com/)
 - [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiAmuKbBhA2EiwAxQnt74l1Rc4mDHPQ4KR_DvT4mNRyUwX1S1UaIChfyshAfMbJESn2kMr8bhoC6F8QAvD_BwE&gclsrc=aw.ds)
 
